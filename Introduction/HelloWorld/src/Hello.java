@@ -6,8 +6,8 @@ public class Hello {
     // a program it is the entry point of any Java code.
     public static void main(String[] args) {
 
-        // this is a statement -> a command to call a method println which
-        // prints out "Hello World" to the console/terminal
-        System.out.println("Hello World");
+        // Update the println statement for the Hello World Challenge
+        System.out.println("Hello, Andrew. " +
+                "These tutorials are getting old really fast...");
     }
 }
